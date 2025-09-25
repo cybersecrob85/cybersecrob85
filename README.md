@@ -21,15 +21,29 @@ I troubleshoot systems under pressure, write clear playbooks, and automate repet
 
 ## Core Skills
 
-**Blue Team:** log parsing, IOC enrichment, alert triage, playbook writing, ticket hygiene.
+### Cybersecurity & Governance
+- Security assessments • access control • handling sensitive info • policy/SOP writing • compliance mindset
 
-**Detection Engineering:** Sigma rule authoring, tuning for signal/noise, mapping to MITRE ATT&CK.
+### Vulnerability Management
+- Scanner result deduping & prioritization (CVSS + exploitability + business impact) • mitigation/exception tracking
 
-**DFIR:** quick‑start investigation steps, Windows event triage, evidence handling basics.
+### Systems & IT Operations
+- Preventive maintenance • systems upgrades (legacy → hardened) • documentation/reporting • ticketing (Maximo)
 
-**Secure Game Services:** server‑authoritative design, OAuth2/JWT, rate‑limiting & telemetry, secure update/patch delivery.
+### Scripting & Automation
+- Python (CLI tools, parsers) • PowerShell (admin/EDR helpers) • GitHub Actions (CI: CodeQL, Bandit, Ruff, Gitleaks)
 
-**Tooling:**  Zeek/Wireshark (beginner); Kali basics; Terraform (starter‑level).
+### Game & Live-Service Security
+- Server-authoritative design • OAuth2/JWT • TLS everywhere • signed/encrypted updates • rate-limiting • telemetry/anti-tamper fundamentals
+
+### Tools
+- Wireshark • Zeek • Nmap • Kali • TryHackMe/HTB
+
+### Collaboration
+- Clear documentation • incident comms • mentoring/training • cross-team coordination • customer service
+
+### Certifications
+- CompTIA Security+ • ISC2 CC • Google Cybersecurity • Google IT Support
 
 ---
 
@@ -43,6 +57,7 @@ Design notes and checklists for a single‑player title with live services (UE 5
 * OAuth2‑based auth flows; TLS everywhere
 * Signed/encrypted content updates; version enforcement
 * Rate‑limiting, anomaly telemetry, and basic anti‑tamper strategies
+* Created overall security document for 25 man indy game studio. Link: https://docs.google.com/document/d/18t4eDCqif1f8u4wiBZw4jCeHoNYHMiqPJlo4Obiez3c/edit?usp=sharing
 
 ---
 
