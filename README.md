@@ -96,12 +96,6 @@ Design notes and checklists for a single‑player title with live services (UE 5
 
 ## Repos to Watch (Pin These)
 
-* `blue-team-scripts/` — utilities for parsing/enrichment
-* `detections-sigma/` — rules + tuning notes
-* `dfir-playbooks/` — quick‑start incident checklists
-* `continuum-security/` — secure game‑services design notes
-* `ctf-writeups/` — redacted, reproducible exercises
-* `cyber-labs/` — lab IaC, Zeek box, experiments
 
 ---
 
