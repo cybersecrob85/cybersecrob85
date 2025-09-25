@@ -37,7 +37,7 @@ I troubleshoot systems under pressure, write clear playbooks, and automate repet
 - Server-authoritative design • OAuth2/JWT • TLS everywhere • signed/encrypted updates • rate-limiting • telemetry/anti-tamper fundamentals
 
 ### Tools
-- Wireshark • Zeek • Nmap • Kali • TryHackMe/HTB
+- Wireshark(beginner) • Zeek(beginner) • Nmap(beginner) • Kali(beginner) • TryHackMe/HTB • Nessus(beginner) 
 
 ### Collaboration
 - Clear documentation • incident comms • mentoring/training • cross-team coordination • customer service
