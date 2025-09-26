@@ -96,6 +96,7 @@ Design notes and checklists for a single‑player title with live services (UE 5
 
 ## Repos to Watch (Pin These)
 
+https://github.com/cybersecrob85/CollegeWriteUps
 
 ---
 
