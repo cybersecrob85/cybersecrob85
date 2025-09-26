@@ -99,7 +99,7 @@ Design notes and checklists for a single‑player title with live services (UE 5
 
 ---
 
-## Badges (CI examples)
+## Badges 
 
 
 ---
@@ -107,7 +107,6 @@ Design notes and checklists for a single‑player title with live services (UE 5
 ## Contact
 
 * **Email:** [cybersec.rob85@gmail.com](mailto:cybersec.rob85@gmail.com)
-* **LinkedIn:** linkedin.com/in/robert-potter-b7109b31b
-
+* **LinkedIn:** linkedin.com/in/robertpotterthesecuritywizard
 * Code: MIT. Writeups: CC BY‑SA 4.0.
 * All labs & samples are educational. No proprietary employer data. No malware binaries; use hashes and links to reputable sources only.
