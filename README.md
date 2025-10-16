@@ -84,6 +84,7 @@ Design notes and checklists for a single‑player title with live services (UE 5
 * Volunteering At Bsides Orlando to be involved in the community. I worked the Soldering Village and as well as runner and helped with setup and teardown.
 * Completed “Vulnerability Management with Nessus” On linkedin Learning.
 * Completed "Intro to Splunk" From Splunk.
+* Volunteered for 18 hours at BSides Orlando, assisting with event setup, teaching in the soldering village, and helping provide meals for over 80 volunteers—contributing to a highly successful convention.
 
 ---
 
