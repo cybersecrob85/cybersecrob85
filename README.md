@@ -59,6 +59,13 @@ Design notes and checklists for a single‑player title with live services (UE 5
 * Rate‑limiting, anomaly telemetry, and basic anti‑tamper strategies
 * Created overall security document for 25 man indy game studio. Link: https://docs.google.com/document/d/18t4eDCqif1f8u4wiBZw4jCeHoNYHMiqPJlo4Obiez3c/edit?usp=sharing
 
+### 2) Project and Portfolio I
+Understand the essential functions of operating systems, application software, hardware, networking, and security practices
+Plan a small-scale information technology solution.
+Construct a simulation of the proposed solution.
+Revise their project plan based on research and troubleshooting.
+Identify continuing education and certification offerings within the information technology industry.
+
 ---
 
 ## Certifications
@@ -86,12 +93,6 @@ Design notes and checklists for a single‑player title with live services (UE 5
 * Completed "Intro to Splunk" From Splunk.
 * Volunteered for 18 hours at BSides Orlando, assisting with event setup, teaching in the soldering village, and helping provide meals for over 80 volunteers—contributing to a highly successful convention.
 
----
-
-## How I Work (Principles)
-
-* **Ship small:** frequent, reviewable commits with tests and linting
-* **Document everything:** READMEs, examples, and runbooks first
 
 ---
 
@@ -110,6 +111,4 @@ https://github.com/cybersecrob85/CollegeWriteUps
 
 * **Email:** [cybersec.rob85@gmail.com](mailto:cybersec.rob85@gmail.com)
 * **LinkedIn:** http://www.linkedin.com/in/robertpotterthesecuritywizard
-  
-* Code: MIT. Writeups: CC BY‑SA 4.0.
-* All labs & samples are educational. No proprietary employer data. No malware binaries; use hashes and links to reputable sources only.
+
