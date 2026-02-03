@@ -72,6 +72,7 @@ Identify continuing education and certification offerings within the information
 ## Certifications
 
 * CompTIA **Security+**
+* CompTIA **Network+**
 * ISC2 **Certified in Cybersecurity (CC)**
 * Google **Cybersecurity Certificate**
 * Google **IT Support Professional**
