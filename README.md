@@ -23,7 +23,9 @@ I troubleshoot systems under pressure, write clear playbooks, and automate repet
 
 ### Cybersecurity & Governance
 - Security assessments • access control • handling sensitive info • policy/SOP writing • compliance mindset
+
 Active Directory Lab: https://youtu.be/pQMdnB_BaLw
+AAA Explained For Security Forces: https://youtu.be/HBe_Q92opLw
 
 ### Vulnerability Management
 - Scanner result deduping & prioritization (CVSS + exploitability + business impact) • mitigation/exception tracking
