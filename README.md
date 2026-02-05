@@ -67,7 +67,7 @@ Construct a simulation of the proposed solution.
 Revise their project plan based on research and troubleshooting.
 Identify continuing education and certification offerings within the information technology industry.
 
-https://youtu.be/tc_9FWGpbDM
+https://github.com/cybersecrob85/CollegeWriteUps/tree/main/Project%20and%20Portfolio%20I
 
 ---
 
