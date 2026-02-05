@@ -26,6 +26,7 @@ I troubleshoot systems under pressure, write clear playbooks, and automate repet
 - Security assessments • access control • handling sensitive info • policy/SOP writing • compliance mindset
 
 Active Directory Lab: https://youtu.be/pQMdnB_BaLw
+
 AAA Explained For Security Forces: https://youtu.be/HBe_Q92opLw
 
 ### Vulnerability Management
