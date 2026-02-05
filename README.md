@@ -87,6 +87,7 @@ https://github.com/cybersecrob85/CollegeWriteUps/tree/main/Project%20and%20Portf
 ## Education
 
 **Full Sail University** — A.S. Computer Science → B.S. Cybersecurity (in progress, target Aug 2027)
+
 **Full Sail University** - Received the Course Director's Award For Jan,2026. The Full Sail Course Director's Award is a prestigious honor presented to students who demonstrate exceptional dedication, passion, and "spirit" for a specific course, rather than just the highest GPA.
 
 ---
