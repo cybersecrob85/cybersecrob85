@@ -48,7 +48,7 @@ AAA Explained For Security Forces: https://youtu.be/HBe_Q92opLw
 - Clear documentation • incident comms • mentoring/training • cross-team coordination • customer service
 
 ### Certifications
-- CompTIA Security+ • ISC2 CC • Google Cybersecurity • Google IT Support
+- CompTIA Security+ • ISC2 CC • Google Cybersecurity • Google IT Support • CompTIA Network+
 
 ---
 
