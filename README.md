@@ -67,6 +67,8 @@ Construct a simulation of the proposed solution.
 Revise their project plan based on research and troubleshooting.
 Identify continuing education and certification offerings within the information technology industry.
 
+https://youtu.be/tc_9FWGpbDM
+
 ---
 
 ## Certifications
