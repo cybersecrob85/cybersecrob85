@@ -12,10 +12,11 @@ I troubleshoot systems under pressure, write clear playbooks, and automate repet
 
 ## Highlights
 
-* **Security+ (CompTIA)** and **ISC2 CC**; strong foundation across blue‑team fundamentals and governance.
+* **Security+ (CompTIA)**,**Network+ (CompTIA)** and **ISC2 CC**; strong foundation across blue‑team fundamentals and governance.
 * **Disney Ride/Show Systems (2019–2025):** preventive maintenance, server/audio equipment care, ticketing (Maximo), and legacy upgrades with an eye toward security.
 * **Air Force Security Operations (2011–2015):** access control, vulnerability checks, incident response discipline.
 * **DC407 Community:** active contributor helping newcomers find their path and stay engaged with local events.
+* **Interviews** Interviewed on the Bowtiesecurityguy's Podcast. you can fine the interview here: https://lnkd.in/eiN8t9yT
 
 ---
 
@@ -86,6 +87,7 @@ https://github.com/cybersecrob85/CollegeWriteUps/tree/main/Project%20and%20Portf
 ## Education
 
 **Full Sail University** — A.S. Computer Science → B.S. Cybersecurity (in progress, target Aug 2027)
+**Full Sail University** - Received the Course Director's Award For Jan,2026. The Full Sail Course Director's Award is a prestigious honor presented to students who demonstrate exceptional dedication, passion, and "spirit" for a specific course, rather than just the highest GPA.
 
 ---
 
