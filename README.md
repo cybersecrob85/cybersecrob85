@@ -76,7 +76,8 @@ https://github.com/cybersecrob85/CollegeWriteUps/tree/main/Project%20and%20Portf
 ---
 
 ## Certifications
-
+* CompTIA **CSAP - Security Analytics Professional**
+* CompTIA **CySA+**
 * CompTIA **Security+**
 * CompTIA **Network+**
 * ISC2 **Certified in Cybersecurity (CC)**
