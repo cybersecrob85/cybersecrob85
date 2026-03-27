@@ -1,125 +1,87 @@
-# Hi, I’m Robert Potter — The Security Wizard 🧙‍♂️🔐
+# Hi, I'm Robert Potter — The Security Wizard 🧙‍♂️🔐
 
-I’m a U.S. Air Force veteran and hands‑on technologist moving from complex ride/show systems into cybersecurity. I blend real‑world ops discipline with blue‑team engineering: detection content, incident playbooks, secure game‑service architecture, and small automations that make defenders faster.
-
----
-
-## What I’m About 
-
-I troubleshoot systems under pressure, write clear playbooks, and automate repetitive blue‑team work. I’m currently studying for a B.S. in Cybersecurity (Full Sail University) while building a practical portfolio: detection rules (Sigma), Python/PowerShell tools, DFIR runbooks, and a secure live‑service game architecture for an indie studio. I believe in measured, documented, reproducible security — and I ship in small, reviewable commits.
+U.S. Air Force veteran and cybersecurity professional based in Orlando, FL. Currently working as an Application Technician at ThreatLocker, where I work daily inside a zero-trust security platform supporting enterprise endpoint security. I bring military discipline, hands-on technical experience, and a drive to move into a Security Analyst or Cybersecurity Engineer role.
 
 ---
 
-## Highlights
+## About Me
 
-* **Security+ (CompTIA)**,**Network+ (CompTIA)** and **ISC2 CC**; strong foundation across blue‑team fundamentals and governance.
-* **Disney Ride/Show Systems (2019–2025):** preventive maintenance, server/audio equipment care, ticketing (Maximo), and legacy upgrades with an eye toward security.
-* **Air Force Security Operations (2011–2015):** access control, vulnerability checks, incident response discipline.
-* **DC407 Community:** active contributor helping newcomers find their path and stay engaged with local events.
-* **Interviews** Interviewed on the Bowtiesecurityguy's Podcast. you can fine the interview here: https://lnkd.in/eiN8t9yT
+I started my career in the Air Force as a Security Forces member, where I built a foundation in access control, physical security, and incident response. From there I transitioned into hands-on technical work at Walt Disney World, supporting ride and show systems — including legacy hardware replacement, engineering coordination, and security posture improvements on operational technology. Now I work at ThreatLocker, applying zero-trust principles and analyzing endpoint behavior every day.
+
+I'm completing my A.S. in Information Technology at Full Sail University (June 2026), then continuing directly into a B.S. in Cybersecurity (target August 2027). My GPA sits at 3.98 and I received the Course Director's Award in January 2026.
 
 ---
 
-## Core Skills
+## Experience
 
-### Cybersecurity & Governance
-- Security assessments • access control • handling sensitive info • policy/SOP writing • compliance mindset
+**Application Technician — ThreatLocker** *(Current)*
+Working within a zero-trust security platform focused on application allowlisting, ringfencing, and endpoint policy enforcement. Daily work includes reviewing audit logs, supporting enterprise security configurations, and working directly with security-focused tooling at the application layer.
 
-Active Directory Lab: https://youtu.be/pQMdnB_BaLw
+**Computer Ride & Show Technician — Walt Disney World** *(2019–2025)*
+Supported legacy and modern ride systems with a focus on preventive maintenance, server and audio equipment, and coordinating with engineering teams on security-adjacent hardware upgrades. Gained real-world exposure to operational technology (OT) environments.
 
-AAA Explained For Security Forces: https://youtu.be/HBe_Q92opLw
-
-### Vulnerability Management
-- Scanner result deduping & prioritization (CVSS + exploitability + business impact) • mitigation/exception tracking
-
-### Systems & IT Operations
-- Preventive maintenance • systems upgrades (legacy → hardened) • documentation/reporting • ticketing (Maximo)
-
-### Scripting & Automation
-- Python (CLI tools, parsers) • PowerShell (admin/EDR helpers) • GitHub Actions (CI: CodeQL, Bandit, Ruff, Gitleaks)
-
-### Game & Live-Service Security
-- Server-authoritative design • OAuth2/JWT • TLS everywhere • signed/encrypted updates • rate-limiting • telemetry/anti-tamper fundamentals
-
-### Tools
-- Wireshark(beginner) • Zeek(beginner) • Nmap(beginner) • Kali(beginner) • TryHackMe/HTB • Nessus(beginner) 
-
-### Collaboration
-- Clear documentation • incident comms • mentoring/training • cross-team coordination • customer service
-
-### Certifications
-- CompTIA Security+ • ISC2 CC • Google Cybersecurity • Google IT Support • CompTIA Network+
-
----
-
-## Current Projects
-
-### 1) **Game Security — Continuum**
-
-Design notes and checklists for a single‑player title with live services (UE 5.5 + Diversion; Xbox/Steam targets):
-
-* Minimize client trust; server‑authoritative state
-* OAuth2‑based auth flows; TLS everywhere
-* Signed/encrypted content updates; version enforcement
-* Rate‑limiting, anomaly telemetry, and basic anti‑tamper strategies
-* Created overall security document for 25 man indy game studio. Link: https://docs.google.com/document/d/18t4eDCqif1f8u4wiBZw4jCeHoNYHMiqPJlo4Obiez3c/edit?usp=sharing
-
-### 2) Project and Portfolio I
-Understand the essential functions of operating systems, application software, hardware, networking, and security practices
-Plan a small-scale information technology solution.
-Construct a simulation of the proposed solution.
-Revise their project plan based on research and troubleshooting.
-Identify continuing education and certification offerings within the information technology industry.
-
-https://github.com/cybersecrob85/CollegeWriteUps/tree/main/Project%20and%20Portfolio%20I
+**Security Forces — U.S. Air Force** *(2011–2015)*
+Access control operations, vulnerability assessments, incident response, and security procedures in high-accountability environments.
 
 ---
 
 ## Certifications
-* CompTIA **CSAP - Security Analytics Professional**
-* CompTIA **CySA+**
-* CompTIA **Security+**
-* CompTIA **Network+**
-* ISC2 **Certified in Cybersecurity (CC)**
-* Google **Cybersecurity Certificate**
-* Google **IT Support Professional**
+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA CySA+
+- CompTIA CSAP — Security Analytics Professional
+- ISC2 Certified in Cybersecurity (CC)
+- Google Cybersecurity Certificate
+- Google IT Support Professional Certificate
+
+---
+
+## Skills
+
+**Endpoint & Zero-Trust Security** — ThreatLocker, application allowlisting, ringfencing, audit log review, policy enforcement
+
+**Vulnerability Management** — Nessus, CVSS-based prioritization, risk triage, mitigation tracking
+
+**Networking & Systems** — Active Directory, VLANs, firewall rules, remote access, wireless security, Linux (Kali, Ubuntu, Rocky), Windows Server
+
+**Scripting & Tooling** — Python, PowerShell, GitHub Actions (CodeQL, Bandit, Ruff, Gitleaks), Wireshark, Nmap
+
+**Documentation & Communication** — Security policy writing, SOP development, incident comms, cross-team coordination, client-facing support
 
 ---
 
 ## Education
 
-**Full Sail University** — A.S. Computer Science → B.S. Cybersecurity (in progress, target Aug 2027)
-
-**Full Sail University** - Received the Course Director's Award For Jan,2026. The Full Sail Course Director's Award is a prestigious honor presented to students who demonstrate exceptional dedication, passion, and "spirit" for a specific course, rather than just the highest GPA.
-
----
-
-## Recent Activities & Learning
-
-* Blue‑team practice: TryHackMe rooms, log analysis drills
-* Drafting security proposals and training docs (NDA/IP awareness, secure build pipelines)
-* Contributing to local cyber meetups and communities (talks, workshops, and peer mentoring)
-* Volunteering At Bsides Orlando to be involved in the community. I worked the Soldering Village and as well as runner and helped with setup and teardown.
-* Completed “Vulnerability Management with Nessus” On linkedin Learning.
-* Completed "Intro to Splunk" From Splunk.
-* Volunteered for 18 hours at BSides Orlando, assisting with event setup, teaching in the soldering village, and helping provide meals for over 80 volunteers—contributing to a highly successful convention.
-
+**Full Sail University**
+A.S. Information Technology — expected June 2026
+B.S. Cybersecurity — in progress, expected August 2027
+GPA: 3.98 | Course Director's Award — January 2026
 
 ---
 
-## Repos to Watch (Pin These)
+## Selected Projects
 
-https://github.com/cybersecrob85/CollegeWriteUps
+**[College Writeups & Lab Work](https://github.com/cybersecrob85/CollegeWriteUps)**
+Documented coursework including network design, security infrastructure planning, VLAN segmentation, Active Directory implementation, and hands-on lab configurations.
+
+**Zero Trust World 2026 Lab Support — ThreatLocker**
+Assisted with live lab exercises at the Zero Trust World conference including SQL injection demos, Metasploit, AI model hacking, and USB Rubber Ducky demonstrations.
+
+**Marconi Law LLC — Network Design & Security**
+Designed and implemented a segmented office network for a law firm including VLAN architecture, IP schema, firewall rules, Active Directory, and a full WordPress + Ghost deployment with NginX reverse proxy on Docker.
 
 ---
 
-## Badges 
+## Community & Recognition
 
+- Active contributor at **DC407** — Orlando's local DEFCON chapter, mentoring newcomers and participating in community events
+- **BSides Orlando** — 18 hours of volunteer work across setup, soldering village instruction, and event support
+- Guest on the **Bowtiesecurityguy's Podcast**: [Listen here](https://lnkd.in/eiN8t9yT)
 
 ---
 
 ## Contact
 
-* **Email:** [cybersec.rob85@gmail.com](mailto:cybersec.rob85@gmail.com)
-* **LinkedIn:** http://www.linkedin.com/in/robertpotterthesecuritywizard
-
+- **Email:** cybersec.rob85@gmail.com
+- **LinkedIn:** [linkedin.com/in/robertpotterthesecuritywizard](http://www.linkedin.com/in/robertpotterthesecuritywizard)
