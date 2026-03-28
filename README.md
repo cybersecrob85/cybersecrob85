@@ -78,7 +78,7 @@ Designed and implemented a segmented office network for a law firm including VLA
 - Active contributor at **DC407** — Orlando's local DEFCON chapter, mentoring newcomers and participating in community events
 - **BSides Orlando** — 18 hours of volunteer work across setup, soldering village instruction, and event support
 - Guest on the **Bowtiesecurityguy's Podcast**: [Listen here](https://lnkd.in/eiN8t9yT)
-- Active contributor at **The Ginger Hacker Initiative** — An online community dedicated to helping newcomers break into Cyber![The Ginger Hacker Initiative](https://www.gingerhacker.org/)
+- Active contributor at **The Ginger Hacker Initiative** — An online community dedicated to helping newcomers break into Cyber! [The Ginger Hacker Initiative](https://www.gingerhacker.org/)
 ---
 
 ## Contact
