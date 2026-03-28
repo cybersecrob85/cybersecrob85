@@ -1,4 +1,4 @@
-# Hi, I'm Robert Potter — The Security Wizard 🧙‍♂️🔐
+# Hi, I'm Robert Potter — The Cyber Wizard 🧙‍♂️🔐
 
 U.S. Air Force veteran and cybersecurity professional based in Orlando, FL. Currently working as an Application Technician at ThreatLocker, where I work daily inside a zero-trust security platform supporting enterprise endpoint security. I bring military discipline, hands-on technical experience, and a drive to move into a Security Analyst or Cybersecurity Engineer role.
 
