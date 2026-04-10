@@ -83,5 +83,5 @@ Designed and implemented a segmented office network for a law firm including VLA
 
 ## Contact
 
-- **Email:** cybersec.rob85@gmail.com
+- **Email:** robert@robertpotter.dev
 - **LinkedIn:** [linkedin.com/in/robertpotterthesecuritywizard](http://www.linkedin.com/in/robertpotterthesecuritywizard)
